@@ -6,11 +6,9 @@ An interactive web-based application to detect and track shoplifting behavior fr
 
 ## 📌 Project Highlights
  
-- 📦 Upload and analyze surveillance videos (`.mp4`)
-- 🎯 Detect shoplifting behavior using a trained deep learning model (`model.h5`)
-- 📽️ Annotated video output (`out.mp4`) with visual indicators
-- 📊 Downloadable CSV logs (`out.csv`) with frame-level detection data
-- 💻 Built with Streamlit for fast, browser-based interaction
+- Upload and analyze surveillance videos (`.mp4`)
+- Detect shoplifting behavior using a trained deep learning model (`model.h5`)
+- Annotated video output (`out.mp4`) with visual indicators
 
 ---
 

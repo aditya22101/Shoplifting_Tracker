@@ -1,0 +1,8 @@
+inference-sdk
+numpy
+pandas
+opencv-python
+tensorflow==2.15.0
+supervision
+python-dotenv
+streamlit
